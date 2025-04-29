@@ -127,3 +127,28 @@
   font-size: 2rem;
   margin-bottom: 15px;
 }
+
+.benefit-box:hover {
+  transform: translateY(-5px);
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.team-card {
+  transition: transform 0.3s ease;
+}
+.team-card:hover {
+  transform: translateY(-10px);
+}
+.social-icons a {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  background-color: #f8f9fa;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 36px;
+  margin: 0 5px;
+  color: #6c757d;
+  transition: all 0.3s ease;
+}
