@@ -4,10 +4,6 @@
 
 ## ✨ Features
 
-- 📅 Task and assignment tracker
-- ⏰ Class and work schedule planner
-- 📊 Dashboard for upcoming deadlines and workload overview
-- 🎯 Priority-based task sorting
 - 📱 Fully responsive UI using Bootstrap
 
 ## 🔧 Technologies Used
@@ -39,7 +35,6 @@ To run Clevo locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/LorentzaZweena/clevo.git
-````
 
 2. Open the project folder:
 
